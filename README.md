@@ -15,8 +15,9 @@ Congrats! Now you can view the app locally in your browser.
 
 - Main Code File: `data-backtesting-analysis.ipynb`
 - Final Printed Code(HTML Version): `data-backtesting-analysis.html`
-- NSE Top 20 Gainers: `T20-GL-gainers-NIFTY-26-Jul-2024.csv`
 - Streamlit App Code File: `stock-analysis-streamlit-app.py`
+- Comprehensive Report: `report.pdf`
+- NSE Top 20 Gainers: `T20-GL-gainers-NIFTY-26-Jul-2024.csv`
 - Project Dependencies: `requirements.txt`
 - Exported files for "SHRIRAMFIN" code: `exports\SHRIRAMFIN`
 - Files used for importing Data: `imports`
@@ -27,7 +28,7 @@ Congrats! Now you can view the app locally in your browser.
 2. Run the interactive Streamlit App and you can do analysis for each stock separately.<br>
     You can export any visualization you like and check key metrics.
 3. Open the Jupyter Notebook named `data-backtesting-analysis.ipynb` to see the whole code.
-4. Read the below Comprehensive Report.
+4. Download and read Comprehensive Report.
 
 ## Platform/IDE Used
 
