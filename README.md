@@ -7,7 +7,7 @@ Open the terminal with the project directory & then Run the following bash comma
 `streamlit run streamlit run .\stock-analysis-streamlit-app.py`<br>
 Congrats! Now you can view the app locally in your browser.
 
-## A Example Vizualization:
+## A Example Vizualization
 
 ![plotly-backtesting-plot](https://github.com/user-attachments/assets/2b5880f8-2fa9-450e-a8ac-8f590554fa7b)
 ![backtesting-lib-plot](https://github.com/user-attachments/assets/68e48c49-7ef5-48b6-aae4-d8c445b28033)
@@ -27,7 +27,7 @@ Congrats! Now you can view the app locally in your browser.
 - Exported files for "SHRIRAMFIN" code: `exports\SHRIRAMFIN`
 - Files used for importing Data: `imports`
 
-## How to Go Through Project:
+## How to Go Through Project
 1. First open the `data-backtesting-analysis.html` to quickly see the python code at a glance.<br>
    *(Note: HTML doesn't renders the output images in notebook. That's why I've exported the images in `exports` folder.)*
 2. Run the interactive Streamlit App and you can do analysis for each stock separately.<br>
