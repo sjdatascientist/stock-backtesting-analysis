@@ -7,6 +7,11 @@ Open the terminal with the project directory & then Run the following bash comma
 `streamlit run streamlit run .\stock-analysis-streamlit-app.py`<br>
 Congrats! Now you can view the app locally in your browser.
 
+## A Example Vizualization:
+
+![plotly-backtesting-plot](https://github.com/user-attachments/assets/2b5880f8-2fa9-450e-a8ac-8f590554fa7b)
+![backtesting-lib-plot](https://github.com/user-attachments/assets/68e48c49-7ef5-48b6-aae4-d8c445b28033)
+
 ## Project Type
 
 ##### *A financial trading analysis project which implements a simple moving average crossover strategy in Python and backtests it.*
@@ -44,6 +49,7 @@ Congrats! Now you can view the app locally in your browser.
 
 ---
 # Comprehensive Report
+**Tip:-** *Read `report.pdf` instead of reading the below content through markdown file.*
 
 ---
 ## National Stock Exchange of India (NSE):
