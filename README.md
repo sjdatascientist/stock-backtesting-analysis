@@ -17,6 +17,7 @@ Congrats! Now you can view the app locally in your browser.
 - Final Printed Code(HTML Version): `data-backtesting-analysis.html`
 - NSE Top 20 Gainers: `T20-GL-gainers-NIFTY-26-Jul-2024.csv`
 - Streamlit App Code File: `stock-analysis-streamlit-app.py`
+- Project Dependencies: `requirements.txt`
 - Exported files for "SHRIRAMFIN" code: `exports\SHRIRAMFIN`
 - Files used for importing Data: `imports`
 
